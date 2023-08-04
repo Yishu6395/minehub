@@ -1,0 +1,2 @@
+# minehub
+Data Mining Assignments
